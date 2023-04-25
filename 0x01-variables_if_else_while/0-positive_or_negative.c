@@ -6,7 +6,6 @@
 /* betty style doc for function main goes there */
 /**
  * main - entry point of program
- *
  * Return: 0 always success
  */
 

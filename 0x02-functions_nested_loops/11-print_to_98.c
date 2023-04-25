@@ -7,7 +7,7 @@
  *
  * Return: no return.
  */
-oid print_to_98(int n)
+void print_to_98(int n)
 {
 	if (n > 98)
 	{
@@ -24,4 +24,4 @@ oid print_to_98(int n)
 		}
 	}
 	printf("%d\n", n);
-}
+

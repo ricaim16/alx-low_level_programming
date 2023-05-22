@@ -1,12 +1,12 @@
-#include <stdlib.h>
 #include <stdio.h>
-#include "holberton.h"
+
 /**
- * main - Entry Point
+ * main - Prints the name of file compiled from
+ *
  * Return: 0
  */
 int main(void)
 {
-	printf("%s\n", __FILE__);
+	printf("%s\n", __BASE_FILE__);
 	return (0);
 }
